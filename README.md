@@ -4,13 +4,15 @@
 - 🌱 Estudando React Native
 - 📫 Fale Comigo: luizsilva12br@gmail.com
 - 😄 Pronouns: Ele/Dele
+
+<img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 <br>
 <div>
   <a href="https://github.com/luizsilvabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&langs_count=7&theme=dracula"/>
 </div
- <div><img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'></div>
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
@@ -22,6 +24,7 @@
   <img align="center" alt="Luiz-ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Luiz-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
 </div>
 
 ##
