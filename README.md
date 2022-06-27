@@ -1,11 +1,11 @@
 ### <h1>Olá Mundo! Me chamo Luíz Felipe Lopes da Silva <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
 <div>
-<img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'><br>
   <p>- 🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
-<p>- 🌱 Estudando React Native</p>
-<p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
-<p>- 😄 Pronouns: Ele/Dele</p>
+  <p>- 🌱 Estudando React Native</p>
+  <p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
+  <p>- 😄 Pronouns: Ele/Dele</p>
+  <img width="10" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 </div>
 <br>
 <div style="width:100%">
