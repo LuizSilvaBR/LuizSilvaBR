@@ -2,10 +2,10 @@
 
 <div>
   <p>- 🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
+    <img width="10" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
   <p>- 🌱 Estudando React Native</p>
   <p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
   <p>- 😄 Pronouns: Ele/Dele</p>
-  <img width="10" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 </div>
 <br>
 <div style="width:100%">
