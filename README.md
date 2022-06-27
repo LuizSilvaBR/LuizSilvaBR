@@ -5,7 +5,7 @@
 - 🌱 Estudando React Native<br>
 - 📫 Fale Comigo: luizsilva12br@gmail.com<br>
 - 😄 Pronouns: Ele/Dele<br>
-<img align="left" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+<img align="center" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 </div>
 <br>
 <div style="width:100%">
