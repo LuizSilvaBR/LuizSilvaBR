@@ -5,7 +5,7 @@
 - 📫 Fale Comigo: luizsilva12br@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-<img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 <br>
 <div>
   <a href="https://github.com/luizsilvabr">
