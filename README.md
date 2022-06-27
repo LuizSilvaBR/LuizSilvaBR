@@ -1,6 +1,6 @@
 ### <h1>Olá Mundo! Me chamo Luíz Felipe Lopes da Silva <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<div>
+<div style="width:100%">
 - 🔭 Hoje Trabalho como Desenvolvedor FullStack<br>
 - 🌱 Estudando React Native<br>
 - 📫 Fale Comigo: luizsilva12br@gmail.com<br>
@@ -8,10 +8,10 @@
 <img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 </div>
 <br>
-<div>
+<div style="width:100%">
   <a href="https://github.com/luizsilvabr">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
     
