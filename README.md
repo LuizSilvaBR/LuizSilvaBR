@@ -1,13 +1,13 @@
 ### <h1>Olá Mundo! Me chamo Luíz Felipe Lopes da Silva <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
-<div style="display:flex; justify-content: space-between">
-
+<div style="width:100%">
+<img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 - 🔭 Hoje Trabalho como Desenvolvedor FullStack<br>
 - 🌱 Estudando React Native<br>
 - 📫 Fale Comigo: luizsilva12br@gmail.com<br>
-- 😄 Pronouns: Ele/Dele<br>
+- 😄 Pronouns: Ele/Dele
 
-<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+
 </div>
 <br>
 <div style="width:100%">
@@ -27,13 +27,12 @@
   <img align="center" alt="Luiz-ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Luiz-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
 </div>
 
 ##
 
 <div>  
-  <a href = "https://api.whatsapp.com/send?phone=5514997692601"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5514997692601"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-             badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
