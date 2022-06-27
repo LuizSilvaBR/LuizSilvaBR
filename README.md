@@ -4,12 +4,12 @@
 - 🌱 Estudando React Native
 - 📫 Fale Comigo: luizsilva12br@gmail.com
 - 😄 Pronouns: Ele/Dele
-  <div><img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'></div>
+<br>
 <div>
   <a href="https://github.com/luizsilvabr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&langs_count=7&theme=dracula"/>
-
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 </div
 
     
