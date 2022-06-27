@@ -2,10 +2,10 @@
 
 - 🔭 Hoje Trabalho como Desenvolvedor FullStack
 - 🌱 Estudando React Native
+<img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 - 📫 Fale Comigo: luizsilva12br@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 <br>
 <div>
   <a href="https://github.com/luizsilvabr">
