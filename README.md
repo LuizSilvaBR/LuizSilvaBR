@@ -3,7 +3,7 @@
 <div>
   <p>- 🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
     <img width="100" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
-  <p>- 🌱 Estudando <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></p>
+  <p>- 🌱 Estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></p>
   <p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
   <p>- 😄 Pronouns: Ele/Dele</p>
 </div>
