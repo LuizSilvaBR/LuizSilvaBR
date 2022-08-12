@@ -3,7 +3,6 @@
 <div>
   <p>- 🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
     <img width="100" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
-  <p>- 🌱 Estudando <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></p>
   <p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
   <p>- 😄 Pronouns: Ele/Dele</p>
 </div>
@@ -17,6 +16,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+   <img align="center" alt="Luiz-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Luiz-Codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
