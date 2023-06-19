@@ -4,7 +4,7 @@
   <p>- 🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
     <img width="100" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
   <p>- 📫 Fale Comigo: luizsilva12br@gmail.com</p>
-  <p>- 😄 Pronouns: Ele/Dele</p>
+  <p>- 😄 Pronomes: Ele/Dele</p>
 </div>
 <br>
 <div style="width:100%">
@@ -35,5 +35,5 @@
   <a href = "mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ## ![Snake animation](https://github.com/luizsilvabr/luizsilvabr/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/luizsilvabr/luizsilvabr/blob/output/github-contribution-grid-snake.svg) -->
 </div>
